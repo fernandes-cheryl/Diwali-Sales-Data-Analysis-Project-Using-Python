@@ -20,8 +20,8 @@ The project includes data cleaning and manipulation using python. EDA has been p
 6. Identify the top 10 products categories sold
 
 ## Summary of Findings
-1. female buyers have higher purchases and purchasing power than their male counterpart
-2. most buyers are females in the age group of 26-35
+1. Female buyers have higher purchases and purchasing power than their male counterpart
+2. Most buyers are females in the age group of 26-35
 3. Most orders are from Uttar Pradesh, Maharashtra and Karnataka. Although Kerala has a higher number of orders, it is replaced by Haryana as the state with a higher amount generated.
 4. Married women have the highest purchases with the highest purchasing power
 5. Healthcare has the highest count of buyers whereas the IT sector contributes to most of the sales amount generated
@@ -29,3 +29,10 @@ The project includes data cleaning and manipulation using python. EDA has been p
 
 ## Conclusion
 Married women from the age group of 26-35 from states Uttar Pradesh, Maharashtra and Karnataka working in IT, healthcare and aviation are more likely to buy products from the food, clothing and apparel and Electronics category.
+
+The target audience is married women from ags 26 to 35. Hence advertisements and marketing strategies can focus on this audience more.
+More distribution centres can be opened up in Uttar Pradesh, Maharashtra and Karnataka to meet demands.
+High grossing category products should be stocked up to meet customer requirements.
+
+## Scope for Further Analysis
+Perhaps inventory records would shine more light if customer requirements are met.
